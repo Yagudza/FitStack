@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">FitBit</string>
+    <string name="app_name">Fitstack</string>
+    <string name="create">Create</string>
+    <string name="setName">Set name</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Friday">Friday</string>
+    <string name="Saturday">Saturday </string>
+    <string name="Sunday">Sunday</string>
+    <string name="chest">Chest</string>
+
+
 </resources>
